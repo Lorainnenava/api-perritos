@@ -1,0 +1,17 @@
+div.card{
+    width:50%;
+    height:50%;
+    background-color:rgb(110, 198, 201);
+    border-radius:20px;
+    box-shadow:0 0 10px black;
+    border:1px solid rgb(6, 71, 97);
+    margin-top:10%;
+}
+
+img{
+    width:50%;
+    height:50%;
+}
+p{
+    color: black;
+}
